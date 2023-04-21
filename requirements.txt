@@ -9,5 +9,5 @@ psycopg2-binary==2.8.4
 # Indirect dependencies
 pytz==2019.3
 six==1.13.0
-sqlparse==0.3.0
+sqlparse==0.4.4
 termcolor==1.1.0
